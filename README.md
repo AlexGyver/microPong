@@ -27,18 +27,6 @@
 ![SCHEME](https://github.com/AlexGyver/microPong/blob/master/schemes/scheme3.jpg)
 
 <a id="chapter-3"></a>
-## Материалы и компоненты
-### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-* ATtiny85 https://www.chipdip.ru/product/attiny85-20pu
-* ATtiny85 али http://ali.ski/BG9nB  http://ali.ski/87pQX6
-* Кнопки http://ali.ski/2WLyAi
-* OLED 128x32 http://ali.ski/uVN_XR
-* USBASP http://ali.ski/qZQ8iF
-* Макетка http://ali.ski/QKOyi
-* Проводочки http://ali.ski/_WrhlQ  http://ali.ski/scOeX
-* Бат. отсек http://ali.ski/HBbYm
-
-
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
