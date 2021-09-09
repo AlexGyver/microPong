@@ -30,13 +30,13 @@
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 * ATtiny85 https://www.chipdip.ru/product/attiny85-20pu
-* ATtiny85 али http://ali.ski/BG9nB  http://ali.ski/87pQX6
-* Кнопки http://ali.ski/2WLyAi
-* OLED 128x32 http://ali.ski/uVN_XR
-* USBASP http://ali.ski/qZQ8iF
-* Макетка http://ali.ski/QKOyi
-* Проводочки http://ali.ski/_WrhlQ  http://ali.ski/scOeX
-* Бат. отсек http://ali.ski/HBbYm
+* ATtiny85 али https://ali.ski/k5BD4  https://ali.ski/6IB-nT
+* Кнопки https://ali.ski/8xVTl8
+* OLED 128x32 https://ali.ski/rFGqpZ
+* USBASP https://ali.ski/seQDu
+* Макетка https://ali.ski/-6770h
+* Проводочки https://ali.ski/cTHtml  https://ali.ski/SaIau9
+* Бат. отсек https://ali.ski/W8Ozbd
 
 
 ## Вам скорее всего пригодится
